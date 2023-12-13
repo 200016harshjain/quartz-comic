@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Comic Graph
 ---
 
-testing landing page
+Landing Page
 
 
-![test](image.png)
