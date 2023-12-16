@@ -1,7 +1,7 @@
 
 ---
 title: Chivalry with automatic doors
-tags: [meta,technology,dates]
+tags: [meta,technology,dates,culture]
 ---
 
 I like thinking about how cultural nuances change as technology evolves. Opening doors used to be a common chivalrous act a lot earlier but what happens now that automatic doors are becoming the norm across places? Do we lose out on this act over time, does that have interesting second order effects? 

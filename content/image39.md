@@ -13,7 +13,7 @@ Related attempts - [[image40.md|Protactors]] [[image41.md|Clips]] [[image175.md|
 [[image176.md|D for Depth]]
 
 
-[[https://harshj.substack.com/p/balance-between-images-and-text-in|Tangent on how comics are just video games that get harder]]
+[Tangent on how comics are just video games that get harder](https://harshj.substack.com/p/balance-between-images-and-text-in)
 
 
 ![Alt text](image_39.png)
